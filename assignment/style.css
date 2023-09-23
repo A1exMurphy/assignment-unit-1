@@ -1,9 +1,9 @@
 /* Add a background color to the header element */
-
+header {background-color: maroon;}
 /* Add a fun background color to the main element */
-
+body {background-color: deepskyblue;}
 /* Align the h1 containing your name in the center of the header*/
-
+h1 {align-items:center;}
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
