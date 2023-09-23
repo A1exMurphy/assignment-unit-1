@@ -9,6 +9,6 @@ p {style="color:yellow;"}
 /* Put a border around your image */
 img {border-style: border: ;}
 /* Change the font-family of your list */
-
+li {style="font-family: Optima, sans-serif;"}
 /* Add a background color to the footer element */
 footer {background-color: maroon;}
