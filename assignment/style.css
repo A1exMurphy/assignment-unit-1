@@ -7,7 +7,7 @@ h1 {align-items:center;}
 /* Make your p tag a different color and italic */
 p {style="color:yellow;"}
 /* Put a border around your image */
-img {float: right; border-style: border: ;}
+pic {float: right; border-style: border: ;}
 /* Change the font-family of your list */
 li {style="font-family: Optima, sans-serif;"}
 /* Add a background color to the footer element */
